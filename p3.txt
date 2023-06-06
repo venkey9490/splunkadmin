@@ -1,8 +1,11 @@
 #!/bin/sh
 echo "what is your name?"
 read name
+<<<<<<< HEAD
 echo "How do you do, $name?"
 read remark
 echo "I am $remark too!"
 variable ="Hello"
 echo $variable
+=======
+>>>>>>> origin/master
